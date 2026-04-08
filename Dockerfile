@@ -23,4 +23,4 @@ COPY .env.example .env.example
 RUN pip install --no-cache-dir .
 
 # Default command to run the MCP server using stdio transport
-CMD ["mcp", "run", "src/intervals_mcp_server/server.py", "--port", "8080"]
+CMD ["mcp", "run", "src/intervals_mcp_server/server.py", "--port", "8080", "--transport", "sse"]
