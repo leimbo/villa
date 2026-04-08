@@ -1,0 +1,109 @@
+bash
+/usr/local/bin/python3 /Users/owen/Downloads/channel_check.py
+python --version
+pip install requests
+pip install requests
+pip3 --version
+pip3 install requests
+bash
+brew --version
+bash
+/usr/local/bin/python3 /Users/owen/Downloads/channel_check.py
+/usr/local/bin/python3 /Users/owen/Downloads/channel_check.py
+install requests
+python --version
+bash
+install python
+python --version
+sudo apt update && sudo apt install python3\
+\
+
+which python3
+nano ~/.bashrc
+python3 --version
+cd /home/owen/downloads
+dir
+ls
+/Downloads
+/usr/owen/downloaads
+home/usr/owen/downloaads/
+dir
+cd /home/owen/downloads
+cd /home/owen/downloads/
+pwd
+cd /Users/owen/Downloads
+ls
+python3 channel_check.py
+pip3 --version
+pip3 install requests
+pip3 install requests --user
+pip3 install requests --owen
+python3 -m venv myenv
+source myenv/bin/activate
+pip install requests
+python channel_check.py
+pip install beautifulsoup4 --user
+pip install beautifulsoup4
+pip install --upgrade pip
+python3 channel_check.py
+python3 channel_check.py
+launchctl unload /Library/LaunchAgents/com.wacom.*
+launchctl load /Library/LaunchAgents/com.wacom.*
+~/.zshrc
+touch ~/.zshrc
+nano ~/.zshrc
+source ~/.zshrc
+echo $CLAUDE_CODE_MAX_OUTPUT_TOKEN
+echo $CLAUDE_CODE_MAX_OUTPUT_TOKENS
+curl -fsSL https://claude.ai/install.sh | bash
+bash
+uninstall claude
+claude uninstall
+bash
+cp ~/Library/Application\ Support/BraveSoftware/Brave-Browser/Default/History /tmp/brave_history.db\
+sqlite3 /tmp/brave_history.db "SELECT url, title, datetime(last_visit_time/1000000-11644473600, 'unixepoch', 'localtime') as visit_time FROM urls WHERE datetime(last_visit_time/1000000-11644473600, 'unixepoch', 'localtime') BETWEEN '2026-03-02 00:00:00' AND '2026-03-20 23:59:59' ORDER BY last_visit_time DESC" > ~/Desktop/brave_history_march.txt
+pip install garminconnect openpyxl requests --break-system-packages
+bash
+bash
+bash
+bash
+bash
+bash
+/Users/owen/Documents/Claude/Projects/Health\ and\ Fitness/run_import.command ; exit;
+bash
+bash
+bash "/Users/owen/Documents/Claude/Projects/Health and Fitness/run_import.command"
+bash
+bash
+bash
+bash
+bash
+/Users/owen/Documents/Claude/Projects/Health\ and\ Fitness/garmin_browser_push.command ; exit;
+bash
+/Users/owen/Documents/Claude/Projects/Health\ and\ Fitness/run_import.command ; exit;
+/Users/owen/Documents/Claude/Projects/Health\ and\ Fitness/run_import.command ; exit;
+bash
+bash
+bash
+/Users/owen/Documents/Claude/Projects/Health\ and\ Fitness/intervals-mcp/setup_intervals_mcp.command ; exit;
+bash
+/Users/owen/Documents/Claude/Projects/Health\ and\ Fitness/garmin_push.command ; exit;
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
+bash
