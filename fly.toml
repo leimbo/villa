@@ -4,7 +4,7 @@ primary_region = "sjc"
 [build]
 
 [env]
-  DATA_DIR    = "/data"
+  DATA_DIR    = "./data"
   SCRIPTS_DIR = "/app/import-scripts"
   CREDS_DIR   = "/data/.credentials"
   FASTMCP_HOST = "0.0.0.0"
