@@ -1,4 +1,4 @@
-# Intervals.icu MCP Server
+# Intervals.icu MCP Server (Maybe)
 
 Model Context Protocol (MCP) server for connecting Claude and ChatGPT with the Intervals.icu API. It provides tools for authentication and data retrieval for activities, events, and wellness data.
 
