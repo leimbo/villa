@@ -120,6 +120,9 @@ __all__ = [
 
 # Run the server
 if __name__ == "__main__":
+    
+    os.makedirs(config.data_dir, exist_ok=True)
+    
     # Validate ATHLETE_ID when server starts (not at import time to allow tests)
     validate_athlete_id(config.athlete_id)
 
